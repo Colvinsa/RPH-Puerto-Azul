@@ -1,0 +1,5 @@
+{
+  "name": "Puerto Azul RPH Intelligence",
+  "description": "A sophisticated interactive dashboard for navigating the Horizontal Property Regulations (RPH) of Puerto Azul Club House, featuring an integrated Gemini-powered legal assistant.",
+  "requestFramePermissions": []
+}
